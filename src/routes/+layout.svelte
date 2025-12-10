@@ -11,6 +11,7 @@
 
 <nav class="navbar">
 	<div class="valikko">
+		<a href="/">etusivu</a>
 		<a href="/blogi">blogi</a>
 		<a href="/videot">vidoita</a>
 		<a href="/nuotit">nuotit</a>
